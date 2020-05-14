@@ -73,3 +73,4 @@ TAB can be used to fill up in terminal. For example, You just need to type “cd
 Ctrl+C can be used to stop any command in terminal safely. If it doesn't stop with that, then Ctrl+Z can be used to force stop it.
 You can exit from the terminal by using the exit command.
 You can power off or reboot the computer by using the command sudo halt and sudo reboot.
+rm -r mydir            remove a full directory
