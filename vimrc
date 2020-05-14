@@ -14,9 +14,6 @@ noremap <space> <PageDown>
  set nocompatible 
 filetype off 
 set rtp+=~/.vim/bundle/Vundle.vim 
-call vundle#begin() 
-Plugin 'zxqfl/tabnine-vim'
-call vundle#end() 
 
 filetype plugin indent on 
 
