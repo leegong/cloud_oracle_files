@@ -2,5 +2,5 @@
 https://github.com/leegong/cloud_oracle_files.git
 git clone: creat sync repo on local
 git pull: updata the cloned sync repo on local
-git push: updata the remoted repo
+git push origin: updata the remoted repo (first: git add .    then: git commit -m "")
 
